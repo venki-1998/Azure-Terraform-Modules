@@ -1,0 +1,11 @@
+variable "key_vault_name" {}
+variable "location" {}
+variable "rg_name" {}
+variable "disk_encryption" {}
+variable "tenant_id" {}
+variable "soft_delete_retention_days" {}
+variable "purge_protection_enabled" {}
+variable "enable_rbac_authorization" {}
+variable "sku_name" {}
+variable "public_enabled" {}
+variable "key_vault_tags" {}
