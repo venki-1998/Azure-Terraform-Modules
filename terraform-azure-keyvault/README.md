@@ -8,7 +8,7 @@ This terraform configuration creates an Azure Key Vault on Azure
 
 <pre>
 
-module "tig-3991_terraform-azure-keyvault" {
+module "terraform-azure-keyvault" {
   source  = ""
   version = ""
   # insert required variables here
