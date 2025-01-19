@@ -9,7 +9,7 @@ This terraform configuration creates an Azure  Storage Data Lake Gen2 Filesystem
 
 <pre>
 
-module "tig-3991_terraform-azurerm-adlsgen2" {
+module "terraform-azurerm-adlsgen2" {
   source  = ""
   version = ""
   # insert required variables here
