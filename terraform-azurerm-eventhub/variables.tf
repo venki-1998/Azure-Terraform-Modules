@@ -1,7 +1,7 @@
 variable "rg_name" {
   description = "The name of the resource group in which to create event hub. Changing this forces a new resource to be created."
   type = string
-  default = "IBCI-UAT-TFE-RG01"
+  default = "test"
 }
 
 variable "namespace_name" {
