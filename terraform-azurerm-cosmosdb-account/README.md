@@ -1,4 +1,4 @@
-[# Azure CosmosDB Account
+# Azure CosmosDB Account
 
 
 This terraform configuration creates an Azure CosmosDB Account on Azure
