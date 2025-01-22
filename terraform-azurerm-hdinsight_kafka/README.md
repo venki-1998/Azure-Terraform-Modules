@@ -1,5 +1,5 @@
 
-# Azure Hd Insight Kafka Clustre
+# Azure Hd Insight Kafka Cluster
 
 
 This terraform configuration creates an Azure Hd Insight Kafka Clustre on Azure
