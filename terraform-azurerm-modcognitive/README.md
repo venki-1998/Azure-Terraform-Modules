@@ -11,7 +11,6 @@ module "terraform-azurerm-modcognitive" {
   source  = ""
   version = ""
   # insert required variables here
-
 }
 
 </pre>
