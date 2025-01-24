@@ -14,7 +14,6 @@ module "terraform-azurerm-modipgroup" {
   source  = ""
   version = "
   # insert required variables here
-
 }
 
 </pre>
