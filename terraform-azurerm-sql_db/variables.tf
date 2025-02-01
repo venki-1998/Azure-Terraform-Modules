@@ -1,7 +1,7 @@
 variable "sql_database_name" {
   description = "(Required) The name of the MS SQL Database. Changing this forces a new resource to be created."
   type = string
-  default = "ibcitestdb01"
+  default = "testdb01"
 }
 
 variable "server_id" {
