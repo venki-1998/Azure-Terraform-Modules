@@ -9,7 +9,7 @@ This terraform configuration creates an Azure Windows Virtual Machine Scale Set 
 
 <pre>
 
-module "terraform-azure-vmss_linux" {
+module "terraform-azure-vmss_windows" {
   source  = ""
   version = ""
   # insert required variables here
