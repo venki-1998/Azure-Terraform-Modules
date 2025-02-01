@@ -11,4 +11,4 @@ variable "role" {
 variable "principalid" {
   type = string
   description = " (Required) The ID of the Principal (User, Group or Service Principal) to assign the Role Definition to. Changing this forces a new resource to be created."
-}z
+}
