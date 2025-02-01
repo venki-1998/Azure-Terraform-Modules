@@ -49,7 +49,7 @@ name                = var.lb_add_pool_name #"BackEndAddressPool"
 # }*/
 
 
-resource "azurerm_virtual_machine_scale_set" "vmss" {
+resource "azurerm_virtual_machine_scale_set" "win" {
 name                = var.VMSS_name #"vmscaleset"
 location            = var.location
 resource_group_name = data.azurerm_resource_group.VMSS_rg.name
